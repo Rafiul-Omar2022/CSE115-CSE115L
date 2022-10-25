@@ -1,7 +1,7 @@
 
-                         ARA2 Theory + Lab
+								                         ARA2 Theory + Lab
 
-                   Programming problems and solutions
+							                  Programming problems and solutions
 
 ----------
 
