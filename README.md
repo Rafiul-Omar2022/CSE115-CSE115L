@@ -10,9 +10,14 @@
 
 ---
 
-# Important links for learning websites:
+# Important websits links for learning:
 
- - List item
+ - [GeeksforGeeks](https://www.geeksforgeeks.org)
+ - [Programmiz](https://www.programiz.com)
+ - [w3 School](https://www.w3schools.com)
+ - [TutorialsPoints](https://www.tutorialspoint.com/cprogramming/index.htm)
+ - [JavaTpoints](https://www.javatpoint.com)
+ - [FreeCodeCamp](https://www.freecodecamp.org)
 
 
 
@@ -22,6 +27,7 @@
  - [HackeRank.com](https://www.hackerrank.com)
  - [CodeChef](https://www.codechef.com)
  - [Beecrowd/URI online Judge](https://www.beecrowd.com.br/judge/en/login)
+
 	
 
 
