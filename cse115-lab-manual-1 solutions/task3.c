@@ -1,14 +1,21 @@
+//Home task
 #include<stdio.h>
 
 int main(){
 
-    float c, f;
-    printf("Enter celsius: ");
-    scanf("%f", &c);
+    int a, b, temp;
 
-    f = (c * (9.0/5.0)) + 32.0; // fraction .0 for converting to floating value
+    printf("Enter a: ");
+    scanf("%d", &a);
+    printf("Enter b: ");
+    scanf("%d", &b);
 
-    printf("%.2f Celsius = %.2f Fahrenheit\n", c, f);
+    //value swapping using temp variable
+    temp = a;
+    a = b;
+    b = temp;
+
+    printf("After swapping, a:%d b:%d", a, b);
 
     return 0;
 }
