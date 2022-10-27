@@ -1,5 +1,6 @@
 
 
+
 ### ARA2 Theory + Lab (Programming problems and solutions)
 ----
   
@@ -7,6 +8,7 @@
 
 1.  [cse115-lab-manual-1 solutions](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-1%20solutions)
 2. [cse115-lab-manual-2-operators-part1-solutions](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-2-operators-part1-solutions)
+3. [cse115-lab-manual-3-operators-part2 solutions](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-3-operators-part2%20solutions)
 
 
 
@@ -36,6 +38,7 @@
 ### Our C Modules: 
 
  - [Modules.pdf](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/blob/main/Module.md)
+
 
 
 
