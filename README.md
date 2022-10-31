@@ -11,7 +11,7 @@
 2. [cse115-lab-manual-2-operators-part1-solutions](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-2-operators-part1-solutions)
 3. [cse115-lab-manual-3-operators-part2 solutions](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-3-operators-part2%20solutions)
 4. [cse115-lab-manual-4-if_else part1-solutions](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-4-if_else%20part1-solutions)
-5. [https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-5-if_else%20part2-solutions](cse115-lab-manual-5-if_else part2-solutions)
+5. [cse115-lab-manual-5-if_else part2-solutions](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-5-if_else%20part2-solutions)
 6. [cse115-lab-manual-5-if_else part2addendum-solutions](https://github.com/Rafiul-Omar2022/CSE115-CSE115L/tree/main/cse115-lab-manual-5-if_else%20part2addendum-solutions)
 
 
